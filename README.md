@@ -1,3 +1,6 @@
+– Hadoop installation video on Youtube 
+https://youtu.be/FuwKl1Uz2Nw
+
 Step 3 - Development of the Practical Component
 
 
@@ -29,5 +32,11 @@ The student has explained the code of each line correctly and precisely. Additio
 
 
 Note, that the student must verify the outcome by developing an RDD using Apache Spark. Additionally, they should attach the HTML of the result.
+
+
+– Hadoop installation video on Youtube 
+https://youtu.be/FuwKl1Uz2Nw
+
+
 
 
